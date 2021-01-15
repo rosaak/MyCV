@@ -1,0 +1,620 @@
+---
+title: "RP's CV 2020"
+author: Roshan Padmanabhan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  background: white;
+}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+# Aside
+
+![Roshan Padmanabhan](https://avatars2.githubusercontent.com/u/5837033?s=400&v=4){width="80%"}
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [rosaak\@gmail.com](mailto:rosaak@gmail.com){.email}
+-   <i class="fa fa-github"></i> [github.com/rosaak](https://github.com/rosaak)
+-   <i class="fa fa-phone"></i> +1 216-280-7550
+
+## Skills {#skills}
+
+-   ![](dot.svg){width="5%"} Experience in design and development of next generation sequencing (NGS) data processing pipelines
+
+-   ![](dot.svg){width="5%"} Experience in analyzing Metagenomics, Transcriptomics, Epigenomics datasets
+
+-   ![](dot.svg){width="5%"} Experience in multi-omics integration
+
+-   ![](dot.svg){width="5%"} Experience in statistical analysis, machine learning
+
+-   ![](dot.svg){width="5%"} Proficient in R, Bash and Python
+
+-   ![](dot.svg){width="5%"} Good communication skills and a track record of successful collaborations with cross-functional teams
+
+# Main
+
+## Babu Roshan Padmanabhan {#title}
+
+***Bioinformatics Scientist***<br> *University Hospitals, Cardiovascular Research Institute*<br> *Wolstein Research Building, Cleveland Ohio 44106*<br>
+
+<hr>
+
+## Employment {data-icon="address-book"}
+
+### Bioinformatics Scientist
+
+University Hospitals
+
+Cleveland, Ohio
+
+May 2020 -
+
+o Working on epigenomics, single-cell genomics and transcriptomics.
+
+### Postdoctoral Bioinformatics Fellow
+
+Cleveland Clinic
+
+Cleveland, Ohio
+
+2016-2020
+
+<strong>Accomplishments:<br></strong> o Used machine learning and genomic approaches to understand the role of microbiome in cancer.<br> o Identified highly correlated multi-omic signatures between metabolomics and microbial datasets.<br> o Worked on microbial associations in patients with autism spectrum disorder, vasculitis, and breast cancer.<br> o Utilized ChIP-Seq and RNA-Seq methods to analyze the role of PTEN in transcription.<br> o GermLine variant analysis of Children, Adolescents, and Young Adults (C-AYA) with SolidTumor.<br>
+
+### Bioinformatics Engineer
+
+Institut des Maladies Métaboliques et Cardiovasculaires
+
+Toulouse, France
+
+2015 -- 2016
+
+<strong>Accomplishments:<br></strong> o Developed pipelines for Metagenomic (16s Amplicon as well as Shotgun) and Bulk RNASeq datasets.<br> o Analyzed several Metagenomic datasets.<br> o Applied machine learning algorithms and Network analysis on clinical and metagenomic datasets.<br>
+
+### Senior Research Fellow
+
+Hyderabad Central University
+
+Hyderabad, India
+
+2006 -- 2011
+
+<strong>Accomplishments:<br></strong> o Poster presentation accepted in the European Conference on Computational Biology at Ghent, Belgium, 2010.<br> o Learned embryonic stem cell culture techniques
+
+### Bioinformatician
+
+Jawaharlal Nehru Centre for Advanced Scientific Research
+
+Bangalore, India
+
+2004 -- 2006
+
+<strong>Accomplishments:<br></strong> o Assembled, Annotated and did comparative genomics of several HIV genomes.<br> o Developed lab website.<br>
+
+## Education {data-icon="graduation-cap" consise="TRUE"}
+
+### Ph.D.
+
+Aix-Marseille University
+
+Marseilles, France
+
+2011-2014
+
+### Advanced Post Graduate Diploma in Bioinformatics
+
+Jawaharlal Nehru University
+
+New Delhi, India
+
+2003-2004
+
+### M.Sc. in Marine Biotechnology
+
+Goa University
+
+Goa, India
+
+2000-2002
+
+### B.Sc. in Biotechnology
+
+Kerala University
+
+Kerala, India
+
+1997-2000
+
+<hr>
+
+## Honors and Seminars / Workshops Attended
+
+### Artificial Intelligence in Oncology : Advancements and Policy
+
+Case Western Reserve University
+
+Cleveland, OH
+
+2019
+
+### International PTEN Symposium
+
+From Patient-Centered Research to Clinical Care
+
+Cleveland, OH
+
+2019
+
+### Galaxy Training
+
+Galaxy Community Conference
+
+Oslo, Norway
+
+2013
+
+### 3-days workshop on Scientific Writing Practice
+
+Aix-Marseille University
+
+Marseille, France
+
+2013
+
+### EMBO Workshop
+
+Center for Cellular and Molecular Biology
+
+Hyderabad, India
+
+2006
+
+### Molecular evolution, structure and functional divergence of Lipoxygenase gene family in vertebrate - [Poster Presentation](http://eccb.iscb.org/2010/index.php/proceedings/posters/115-comparative-genomics-phylogeny-and-evolution/index.html#_Toc269742405)
+
+9th European Conference on Computational Biology
+
+Ghent, Belgium
+
+2010
+
+### National workshop on Bioinformatics: Principles, Algorithms and Tools
+
+C-DIT and TBGRI
+
+Kerala, India
+
+2002
+
+### National Eligibility Test (NET) for Junior Research Fellowship (JRF)
+
+The Council of Scientific & Industrial Research (CSIR) and University Grants Commission
+
+India
+
+2001,2004
+
+<hr>
+
+## Domain Specific Knowledge {data-icon="dna"}
+
+### Programming Related
+
+N/A
+
+N/A
+
+-   R
+-   Python
+-   Perl
+-   JavaScript / HTML / CSS
+-   Bash, Awk, Sed
+-   DataBase: MySQL, SQLite, Mongodb
+-   Web: Django, Dash (plotly), Shiny
+-   Linux Administration
+-   Experience working in HPC, Docker, Snakemake, Jupyter Notebook
+
+### Proficient in
+
+N/A
+
+N/A
+
+-   Data wrangling and visualization : pandas, numpy, dplyr, ggplot2, matplotlib and seaborn
+-   Machine Learning libraries : scikit-learn, caret, randomforest, xgboost, t-sne
+-   Bioconductor libraries for NGS : Rsamtools, Rsubreads, DESeq2, edger, phyloseq, maftools, limma
+-   Analysis of Next Generation Sequence Data
+-   Microbial whole genome assembly
+-   Variant detection related [GATK, maftools, XHMM]
+-   Transcriptomics [STAR,Kallisto,Sleuth,DESeq2]
+-   ChIPSeq / ATAC-Seq [macs2, HOMER, diffbind, bicycle]
+-   Amplicon and Shotgun Metagenomics, Metabolomics and Pan-genomics [Qiime, Micca, mothur, MOCAT, Kraken, mixOmics]
+-   Integrative systems biology
+-   Setting up and maintaining local database for Handling NGS Data, Galaxy local server etc.
+
+<hr>
+
+## Software, Databases and Data Analysis {data-icon="laptop"}
+
+### Data Analysis
+
+-   Comprehensive germline genomic profiles of children, adolescents and young adults with solid tumors. [github link](https://github.com/rosaak/germline_caya_solidtumor_analysis)
+
+N/A
+
+2019
+
+### Data Visualization
+
+-   Sankey Plots Visualization showing drug--target network analysis in children, adolescents, and young adults (C-AYA) with solid tumors [github link](https://github.com/rosaak/CAYA_Sankey_Daigrams)
+
+N/A
+
+2019
+
+### MAGI
+
+-   A pipeline for whole genome comparison. [github link](https://github.com/rosaak/magi/wiki)
+
+N/A
+
+2016
+
+### ARG-ANNOT (Antibiotic Resistance Gene-ANNOTation)
+
+-   A database to discover antibiotic resistance genes in bacterial genomes. [link](https://www.mediterranee-infection.com/acces-ressources/base-de-donnees/arg-annot-2/)
+
+N/A
+
+2013
+
+<hr>
+
+## Professional service {data-icon="pen-alt"}
+
+### Reviewer for journals
+
+N/A
+
+N/A
+
+-   New Microbes and New Infections (Elsevier)
+-   Scientific Reports (Nature)
+-   Journal of Applied Microbiology
+-   Letters in Applied Microbiology
+-   Cancer Research (AACR)
+
+## Extra curricular {data-icon="chalkboard-teacher"}
+
+### Passionate about
+
+N/A
+
+N/A
+
+-   Photography
+-   Sketching
+-   Data Visualization
+-   Online Learning
+
+<hr>
+
+## Publications {data-icon="file"}
+
+### Germline EGFR variants are over-represented in adolescents and young adults (AYA) with adrenocortical carcinoma
+
+*Human Molecular Genetics.*, 2020 Dec 16, ddaa268 [PMID: 33326033](https://pubmed.ncbi.nlm.nih.gov/33326033/)
+
+N/A
+
+2020
+
+Sara Akhavanfard, Lamis Yehia, **Roshan Padmanabhan**, Jordan P. Reynolds, Ying Ni and Charis Eng
+
+### Exposure to Air Pollution Disrupts Circadian Rhythm through Alterations in Chromatin Dynamics
+
+*iScience.*, Volume 23, Issue 11, 101728 [PMID: 33241196](https://pubmed.ncbi.nlm.nih.gov/33241196/)
+
+N/A
+
+2020
+
+Rengasamy Palanivel, Vinesh Vinayachandran, Shyam Biswal, Jeffrey A.Deiuliis, **Roshan, Padmanabhan**, Bongsoo Park, Roopesh SinghGangwar, Jared C.Durieux, Elaine AnnEbreo Cara, Lopa Das, Graham Bevan, Zahi A.Fayad, Ahmed Tawakol, Mukesh K.Jain, Sujata Rao, Sanjay Rajagopalan
+
+
+### Metabolic stress regulates genome-wide transcription in a PTEN-dependent manner
+
+*Human Molecular Genetics.*, 2020, Vol. 29, No. 16 [PMID: 32744308](https://pubmed.ncbi.nlm.nih.gov/32744308/)
+
+N/A
+
+2020
+
+Ata Abbas, **Roshan Padmanabhan**, Charis Eng
+
+### Bacteriome and mycobiome and bacteriome-mycobiome interactions in head and neck squamous cell carcinoma
+
+*Oncotarget.* 2020 Jun 23; 11(25): 2375-2386. [PMID: 32637029](https://pubmed.ncbi.nlm.nih.gov/32637029/)
+
+N/A
+
+2020
+
+Elizabeth Shay, Naseer Sangwan, **Roshan Padmanabhan**, Scott Lundy, Brian Burkey, and Charis Eng
+
+### Comprehensive germline genomic profiles of children, adolescents and young adults with solid tumors.
+
+*Nature Communications.* 2020 May 5; 11(1):2206. [PMID: 32371905](https://pubmed.ncbi.nlm.nih.gov/32371905/)
+
+N/A
+
+2020
+
+Sara Akhavanfard, **Roshan Padmanabhan**, Lamis Yehia, Feixiong Cheng, Charis Eng.
+
+### Copy Number Variation and Clinical Outcomes in Patients with Germline PTEN Mutations.
+
+*JAMA Network Open.* 2020;3(1):e1920415. [PMID: 32003824](https://pubmed.ncbi.nlm.nih.gov/32003824/)
+
+N/A
+
+2020
+
+Lamis Yehia, Marilyn Seyfi, Lisa-Marie Niestroj, **Roshan Padmanabhan**, Ying Ni, Thomas Frazier, Dennis Lal, Charis Eng.
+
+### Resveratrol-mediated glycemic regulation is blunted by curcumin and is associated to modulation of gut microbiota.
+
+*The Journal of Nutritional Biochemistry.* 2019 Oct;72:108218 [PMID: 31473511](https://pubmed.ncbi.nlm.nih.gov/31473511/)
+
+N/A
+
+2019
+
+Navin Sreng, Serge Champion, Jean-Charles Martin, Saber Khelaifia, Jeffrey E Christensen, **Roshan Padmanabhan**, Vincent Azalbert, Vincent Blasco-Baque, Pascale Loubieres, Laurent Pechere, Jean-François Landrier, Rémy Burcelin, Eric Sérée.
+
+### PTEN modulates gene transcription by redistributing genome-wide RNA polymerase II occupancy.
+
+*Hum Mol Genet.* 2019 Sep 1;28(17):2826-2834. [PMID: 31127935](https://pubmed.ncbi.nlm.nih.gov/31127935/)
+
+N/A
+
+2019
+
+Ata Abbas, **Roshan Padmanabhan**, Todd Romigh, Charis Eng.
+
+### Microbiomes of Inflammatory Thoracic Aortic Aneurysms Due to Giant Cell Arteritis and Clinically Isolated Aortitis Differ From Those of Non-Inflammatory Aneurysms.
+
+*Pathogens and Immunity.* 2019 Mar 15;4(1):105-123. [PMID: 30993253](https://pubmed.ncbi.nlm.nih.gov/30993253/)
+
+N/A
+
+2019
+
+Getz TM\*, Hoffman GS\*, **Padmanabhan R**, Villa-Forte A, Funchain P, Roselli EE, Blackstone E, Johnston D, Petterson G, Soltesz, Svensson LG, Calabrese LH, Clifford AH, Eng C.
+
+### The Microbiome of Temporal Arteries.
+
+*Pathogens and Immunity.* 2019;4(1):61-78. [PMID: 30993251](https://pubmed.ncbi.nlm.nih.gov/30993251/)
+
+N/A
+
+2019
+
+Hoffman GS, Getz TM, **Padmanabhan R**, Villa-Forte A, Clifford AH, Funchain P, Sankunny M, Perry JD, Blandford A, Kosmorsky G, Lystad L, Calabrese LH, Eng C.
+
+### Microbiome in PTEN hamartoma tumor syndrome.
+
+*Endocr Relat Cancer.* 2017, [PMID: 29233840](https://pubmed.ncbi.nlm.nih.gov/29233840/)
+
+N/A
+
+2019
+
+Victoria Byrd, Ted M Getz, **Roshan Padmanabhan**, Hans Arora and Charis Eng.
+
+### Transfer of dysbiotic gut microbiota has beneficial effects on host liver metabolism.
+
+*Mol Syst Biol.* 2017 Mar 16;13(3):921, [PMID: 28302863](https://pubmed.ncbi.nlm.nih.gov/28302863/)
+
+N/A
+
+2017
+
+Simon Nicolas, Vincent Blasco‐Baque, Audren Fournel, Jerome Gilleron, Pascale Klopp, Aurelie Waget, Franck Ceppo, Alysson Marlin, **Roshan Padmanabhan**, Jason Siacovoni, François Tercé, Patrice D Cani, Jean‐François Tanti, Remy Burcelin, Claude Knauf, Mireille Cormont, Matteo Serino.
+
+### Microbial Culturomics to Map Halophilic Bacterium in Human Gut: Genome Sequence and Description of Oceanobacillus Jeddahense sp. nov.
+
+*OMICS*, 2016, 20 (4), 248-258. [PMID: 27093109](https://pubmed.ncbi.nlm.nih.gov/27093109/)
+
+N/A
+
+2016
+
+Saber Khelaifia, Jean-Christophe Lagier, Fehmida Bibi, Esam Ibraheem Azhar, Olivier Croce, **Roshan Padmanabhan**, Asif Ahmad Jiman-Fatani, Muhammad Yasir, Catherine Robert, Claudia Andrieu, Pierre-Edouard Fournier, Didier Raoult.
+
+### Periodontal dysbiosis linked to periodontitis is associated with cardiometabolic adaptation to high-fat diet in mice.
+
+*Am J Physiol Gastrointest Liver Physiol.* 2016,1;310(11). [PMID: 27033119](https://pubmed.ncbi.nlm.nih.gov/27033119/)
+
+N/A
+
+2016
+
+Maxime Branchereau, François Reichardt, Pascale Loubieres, Pauline Marck, Aurélie Waget, Vincent Azalbert, André Colom, **Roshan Padmanabhan**, Jason Iacovoni, Anaïs Giry, François Tercé, Christophe Heymes, Remy Burcelin, Matteo Serino, Vincent Blasco-Baque.
+
+### Genome sequence and description of Pantoea septica strain FF5.
+
+*Stand Genomic Sci.* 2015; 10: 103. [PMID: 26568786](https://pubmed.ncbi.nlm.nih.gov/26568786/)
+
+N/A
+
+2015
+
+Cheikh Ibrahima Lo, **Roshan Padhmanabhan**, Oleg Mediannikov, Thi Tien Nguyen, Didier Raoult, Pierre-Edouard Fournier, and Florence Fenollar.
+
+### High-quality genome sequence and description of Bacillus dielmoensis strain FF4(T) sp. nov.
+
+*Stand Genomic Sci.* 2015 22; 10:41. [PMID: 26221422](https://pubmed.ncbi.nlm.nih.gov/26221422/)
+
+N/A
+
+2015
+
+Cheikh Ibrahima Lo, **Roshan Padhmanabhan**, Oleg Mediannikov, Jérôme Terras, Catherine Robert, Ngor Faye, Didier Raoult, Pierre-Edouard Fournier, and Florence Fenollar.
+
+### Noncontiguous finished genome sequence and description of Necropsobacter massiliensis sp. nov.
+
+*New Microbes New Infect.* 2015 Nov; 8: 41-- 50. [PMID: 26587237](https://pubmed.ncbi.nlm.nih.gov/26587237/)
+
+N/A
+
+2015
+
+C.I. Lo, **R. Padhamanabhan**, B. Fall, B. Sambe-Ba, O. Mediannikov, T.-T. Nguyen, E. Prudent, N. Faye, Wade, D. Raoult, P.-E. Fournier, and F. Fenollar.
+
+### ARG-ANNOT (Antibiotic Resistance Gene-ANNOTation), a new bioinformatic tool to discover antibiotic resistance genes in bacterial genomes.
+
+*Antimicrob Agents Chemother*, 2014;58(1):212-20. [PMID: 24145532](https://pubmed.ncbi.nlm.nih.gov/24145532/)
+
+N/A
+
+2014
+
+Gupta SK, **Padmanabhan BR**, Diene SM, Lopez- Rojas R, Kempf M, Landraud L, Rolain JM.
+
+### Genome Sequence of Borrelia crocidurae Strain 03-02, a Clinical Isolate from Senegal.
+
+*Genome Announc.* 2014 Nov 6;2(6):e01150-14. [PMID: 25377717](https://pubmed.ncbi.nlm.nih.gov/25377717/)
+
+N/A
+
+2014
+
+Aurélien Fotso Fotso, Oleg Mediannikov, **Roshan Padmanabhan**, Catherine Robert, Pierre-Edouard Fournier, Didier Raoult, Michel Drancourt.
+
+### High quality draft genome sequence and description of Occidentia massiliensis gen. nov., sp. nov., a new member of the family Rickettsiaceae.
+
+*Stand Genomic Sci.* 2014 Dec 8;9:9. [PMID: 25780502](https://pubmed.ncbi.nlm.nih.gov/25780502/)
+
+N/A
+
+2014
+
+Oleg Mediannikov, Thi-Thien Nguyen, Lesley Bell-Sakyi, **Roshan Padmanabhan**, Pierre-Edouard Fournier, and Didier Raoult.
+
+### Genome sequence and description of Corynebacterium ihumii sp. nov.
+
+*Stand. Genomic Sci.* 2014 Mar 15;9(3):1128-43. [PMID: 25197488](https://pubmed.ncbi.nlm.nih.gov/25197488/)
+
+N/A
+
+2014
+
+**Roshan Padmanabhan**, Grégory Dubourg, Jean-Christophe Lagier, Carine Couderc, Caroline Michelle, Didier Raoult, Pierre- Edouard Fournier.
+
+### Non-contiguous finished genome sequence and description of Collinsella massiliensis sp. nov.
+
+*Stand. Genomic Sci.* 2014 Mar 15;9(3):1144-58. [PMID: 25197489](https://pubmed.ncbi.nlm.nih.gov/25197489/)
+
+N/A
+
+2014
+
+**Roshan Padhmanabhan**, Gregory Dubourg, Jean-Christophe Lagier, Thi-Thien Nguyen, Carine Couderc, Morgane Rossi-Tamisier, Aurelia Caputo, Didier Raoult, Pierre-Edouard Fournier.
+
+### Draft Genome Sequence of Necropsobacter rosorum Strain P709T
+
+*Genome Announc.* 2014 Oct 9;2(5):e00913-14. [PMID: 25301642](https://pubmed.ncbi.nlm.nih.gov/25301642/)
+
+N/A
+
+2014
+
+**Roshan Padmanabhan**, Catherine Robert, Florence Fenollar, Didier Raoulta, Pierre-Edouard Fournier.
+
+### Non-contiguous-finished genome sequence and description of Paenibacillus gorillae sp. nov.
+
+*Stand. Genomic Sci.* 2014 Mar 15;9(3):1031-45 [PMID: 25197481](https://pubmed.ncbi.nlm.nih.gov/25197481/)
+
+N/A
+
+2014
+
+Mamadou Bhoy e Keita, **Roshan Padhmanabhan**, Aurelia Caputo, Catherine Robert, Eric Delaporte, Didier Raoult, Pierre-Edouard Fournier, Fadi Bittar.
+
+### A polyphasic strategy incorporating genomic data for the taxonomic description of novel bacterial species. [Review]
+
+*Int J Syst Evol Microbiol.* 2014 Feb; 64(Pt 2):384-391 [PMID: 24505076](https://pubmed.ncbi.nlm.nih.gov/24505076/)
+
+N/A
+
+2014
+
+Dhamodharan Ramasamy, Ajay Kumar Mishra, Jean-Christophe Lagier, **Roshan Padhmanabhan**, Morgane Rossi, Erwin Sentausa, Didier Raoult and Pierre-Edouard Fournier.
+
+### Non-contiguous-finished genome sequence and description of Gorillabacterium massiliensis gen. nov, sp. nov., a new member of the Family Paenibacillaceae.
+
+*Stand. Genomic Sci.* 2014 Mar 15;9(3):807-20. [PMID: 25197465](https://pubmed.ncbi.nlm.nih.gov/25197465/)
+
+N/A
+
+2014
+
+Mamadou Bhoye Keita, **Roshan Padhmanabhan**, Aurelia Caputo, Catherine Robert, Eric Delaporte, Didier Raoult, Pierre-Edouard Fournier, Fadi Bittar.
+
+### Genomics and Metagenomics in Medical Microbiology. [Review]
+
+*Journal of Microbiological Methods* 2013 Dec;95(3):415-24 [PMID: 24200711](https://pubmed.ncbi.nlm.nih.gov/24200711/)
+
+N/A
+
+2013
+
+**Roshan Padmanabhan**, Ajay Kumar Mishra, Didier Raoult, Pierre-Edouard Fournier.
+
+### Non-contiguous finished genome sequence and description of Megasphaera massiliensis sp. nov
+
+*Stand. Genomic Sci.* 2013 Aug 7;8(3):525-38. [PMID: 24501636](https://pubmed.ncbi.nlm.nih.gov/24501636/)
+
+N/A
+
+2013
+
+**Roshan Padmanabhan**, Jean-Christophe Lagier, Nicole Prisca Makaya Dangui, Caroline Michelle, Carine Couderc, Didier Raoult, Pierre-Edouard Fournier.
+
+
+### Non-contiguous finished genome sequence and description of Clostridium dakarense sp. nov
+
+*Stand. Genomic Sci.* 2013 Sep 30;9(1):14-27. [PMID: 24501642](https://pubmed.ncbi.nlm.nih.gov/24501642/)
+
+N/A
+
+2013
+
+Cheikh Ibrahima Lo, Ajay Kumar Mishra, **Roshan Padhmanabhan**, Bissoume Samb, Ba, Amy Gassama Sow, Catherine Robert, Carine Couderc, Ngor Faye, Didier Raoult, Pierre-Edouard Fournier, Florence Fenollar.
+
+### Exceptional molecular and coreceptor-requirement properties of molecular clones isolated from an Human Immunodeficiency Virus Type-1 subtype C infection.
+
+*Retrovirology* 2008 Mar 7;5:25. [PMID: 18328091](https://pubmed.ncbi.nlm.nih.gov/18328091/)
+
+N/A
+
+2008
+
+Dash P K, Siddappa N B, Mangaiarkarasi A, Mahendarkar A, **Roshan P B**, Anand K K, Mahadevan A, Shankar S K, Satishchandra P, Prasad V R, Ranga U.
+
+<hr>

@@ -50,7 +50,7 @@ knit: pagedown::chrome_print
 
 ## Babu Roshan Padmanabhan {#title}
 
-***Bioinformatics Scientist***<br> *University Hospitals, Cardiovascular Research Institute*<br> *Wolstein Research Building, Cleveland Ohio 44106*<br>
+***Senior Bioinformatics Scientist***<br> *Trailhead Biosystems Inc.*<br> *10000 Ceder Ave, Cleveland Ohio 44106*<br>
 
 <hr>
 
@@ -58,13 +58,25 @@ knit: pagedown::chrome_print
 
 ### Bioinformatics Scientist
 
+Trailhead Biosystems Inc.
+
+Cleveland, Ohio
+
+2022-
+
+o Building Workflows 
+
+
+### Bioinformatics Scientist
+
 University Hospitals
 
 Cleveland, Ohio
 
-May 2020 -
+2020-2021
 
-o Working on epigenomics, single-cell genomics and transcriptomics.
+<strong>Accomplishments:<br></strong> o Integrated ChIP-Seq, ATAC-Seq and RNA-Seq data to understand role of Krüppel-like family
+of transcription factors in vascular endothelial biology.<br> o Involved in project related to chromatin dynamics during pollution and aging, analyzed time series analysis of RNA-Seq and ChIPseq datasets.<br> o Developed downstream analysis pipeline to analyze HiC data and built visualization pipeline and deployed it on linode server.<br> o Managed more than 10 epigenomic, transcriptomis and single-cell transcriptomics projects.
 
 ### Postdoctoral Bioinformatics Fellow
 

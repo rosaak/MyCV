@@ -75,8 +75,14 @@ Cleveland, Ohio
 
 2020-2021
 
+<<<<<<< HEAD
 <strong>Accomplishments:<br></strong> o Integrated ChIP-Seq, ATAC-Seq and RNA-Seq data to understand role of Krüppel-like family
 of transcription factors in vascular endothelial biology.<br> o Involved in project related to chromatin dynamics during pollution and aging, analyzed time series analysis of RNA-Seq and ChIPseq datasets.<br> o Developed downstream analysis pipeline to analyze HiC data and built visualization pipeline and deployed it on linode server.<br> o Managed more than 10 epigenomic, transcriptomis and single-cell transcriptomics projects.
+||||||| b936d22
+o Working on epigenomics, single-cell genomics and transcriptomics.
+=======
+o Studing the role of Krüppel-like Factors in endothelial biology using epigenomics, single-cell genomics and transcriptomics
+>>>>>>> 5e0351b2791b71c5d03dd9b6d91c9db6901e34ec
 
 ### Postdoctoral Bioinformatics Fellow
 
@@ -309,6 +315,7 @@ N/A
 -   Journal of Applied Microbiology
 -   Letters in Applied Microbiology
 -   Cancer Research (AACR)
+-   Review Editor in Cancer Genetics and Oncogenomics (Frontiers)
 
 ## Extra curricular {data-icon="chalkboard-teacher"}
 
@@ -326,6 +333,26 @@ N/A
 <hr>
 
 ## Publications {data-icon="file"}
+
+### **Microbiome dysbiosis and epigenetic modulations in lung cancer: From pathogenesis to therapy**
+
+Seminars in Cancer Biology., 2021 Jul 15 [PMID: 34273520](https://pubmed.ncbi.nlm.nih.gov/34273520/)
+
+N/A
+
+2021
+
+Khan Faizan Haider, Bhat Basharat Ahmad, Sheikh Bashir Ahmad, Tariq Lubna, **Padmanabhan Roshan**, Verma Jay Prakash, Shukla Amritesh Chandra, Dowlati Afshin, Abbas Ata
+
+### The effect of oral Metronidazole on the vaginal microbiome of patients with recurrent bacterial vaginosis: A pilot investigational study
+
+*Human Microbiome Journal.,* Volume 20, June 2021, 100081[DOI](https://doi.org/10.1016/j.humic.2021.100081)
+
+N/A
+
+2021
+
+Oluwatosin Goje, Elizabeth O Shay, Metabel Markwei, **Roshan Padmanabhan**, Charis Eng
 
 ### Germline EGFR variants are over-represented in adolescents and young adults (AYA) with adrenocortical carcinoma
 
@@ -346,7 +373,6 @@ N/A
 2020
 
 Rengasamy Palanivel, Vinesh Vinayachandran, Shyam Biswal, Jeffrey A.Deiuliis, **Roshan, Padmanabhan**, Bongsoo Park, Roopesh SinghGangwar, Jared C.Durieux, Elaine AnnEbreo Cara, Lopa Das, Graham Bevan, Zahi A.Fayad, Ahmed Tawakol, Mukesh K.Jain, Sujata Rao, Sanjay Rajagopalan
-
 
 ### Metabolic stress regulates genome-wide transcription in a PTEN-dependent manner
 
@@ -607,7 +633,6 @@ N/A
 2013
 
 **Roshan Padmanabhan**, Jean-Christophe Lagier, Nicole Prisca Makaya Dangui, Caroline Michelle, Carine Couderc, Didier Raoult, Pierre-Edouard Fournier.
-
 
 ### Non-contiguous finished genome sequence and description of Clostridium dakarense sp. nov
 

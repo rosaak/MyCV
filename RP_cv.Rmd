@@ -75,14 +75,9 @@ Cleveland, Ohio
 
 2020-2021
 
-<<<<<<< HEAD
 <strong>Accomplishments:<br></strong> o Integrated ChIP-Seq, ATAC-Seq and RNA-Seq data to understand role of Krüppel-like family
 of transcription factors in vascular endothelial biology.<br> o Involved in project related to chromatin dynamics during pollution and aging, analyzed time series analysis of RNA-Seq and ChIPseq datasets.<br> o Developed downstream analysis pipeline to analyze HiC data and built visualization pipeline and deployed it on linode server.<br> o Managed more than 10 epigenomic, transcriptomis and single-cell transcriptomics projects.
-||||||| b936d22
-o Working on epigenomics, single-cell genomics and transcriptomics.
-=======
-o Studing the role of Krüppel-like Factors in endothelial biology using epigenomics, single-cell genomics and transcriptomics
->>>>>>> 5e0351b2791b71c5d03dd9b6d91c9db6901e34ec
+
 
 ### Postdoctoral Bioinformatics Fellow
 

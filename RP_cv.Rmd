@@ -56,7 +56,7 @@ knit: pagedown::chrome_print
 
 ## Employment {data-icon="address-book"}
 
-### Bioinformatics Scientist
+### Senior Bioinformatics Scientist
 
 Trailhead Biosystems Inc.
 

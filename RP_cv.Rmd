@@ -64,8 +64,7 @@ Cleveland, Ohio
 
 2022-
 
-o Building Workflows 
-
+o Experimental design, Analyzing transcriptomics data, Building pipelines/ workflows, Databases, and Apps for storing, retrieving, analyzing, and visualizing various omics datasets.
 
 ### Bioinformatics Scientist
 
@@ -75,9 +74,7 @@ Cleveland, Ohio
 
 2020-2021
 
-<strong>Accomplishments:<br></strong> o Integrated ChIP-Seq, ATAC-Seq and RNA-Seq data to understand role of Krüppel-like family
-of transcription factors in vascular endothelial biology.<br> o Involved in project related to chromatin dynamics during pollution and aging, analyzed time series analysis of RNA-Seq and ChIPseq datasets.<br> o Developed downstream analysis pipeline to analyze HiC data and built visualization pipeline and deployed it on linode server.<br> o Managed more than 10 epigenomic, transcriptomis and single-cell transcriptomics projects.
-
+<strong>Accomplishments:<br></strong> o Integrated ChIP-Seq, ATAC-Seq and RNA-Seq data to understand role of Krüppel-like family of transcription factors in vascular endothelial biology.<br> o Involved in project related to chromatin dynamics during pollution and aging, analyzed time series analysis of RNA-Seq and ChIPseq datasets.<br> o Developed downstream analysis pipeline to analyze HiC data and built visualization pipeline and deployed it on linode server.<br> o Managed more than 10 epigenomic, transcriptomis and single-cell transcriptomics projects.
 
 ### Postdoctoral Bioinformatics Fellow
 
@@ -237,9 +234,10 @@ N/A
 -   JavaScript / HTML / CSS
 -   Bash, Awk, Sed
 -   DataBase: MySQL, SQLite, Mongodb
--   Web: Django, Dash (plotly), Shiny
+-   Web: Django, Dash (plotly), Shiny, Streamlit
 -   Linux Administration
 -   Experience working in HPC, Docker, Snakemake, Jupyter Notebook
+-   Experience working in Cloud - AWS and Azure
 
 ### Proficient in
 
@@ -328,6 +326,16 @@ N/A
 <hr>
 
 ## Publications {data-icon="file"}
+
+### **Transcription factors KLF15 and PPARδ cooperatively orchestrate genome-wide regulation of lipid metabolism in skeletal muscle**
+
+Journal of Biological Chemistry., Volume 298, Issue 6, June 2022 [PMID: 35413288](https://pubmed.ncbi.nlm.nih.gov/35413288/)
+
+N/A
+
+2022
+
+Liyan Fan, David R Sweet, Erica K Fan, Domenick A Prosdocimo, Annmarie Madera, Zhen Jiang, **Roshan Padmanabhan**, Saptarsi M Haldar, Vinesh Vinayachandran, Mukesh K Jain
 
 ### **Microbiome dysbiosis and epigenetic modulations in lung cancer: From pathogenesis to therapy**
 

@@ -327,6 +327,16 @@ N/A
 
 ## Publications {data-icon="file"}
 
+### **A targetable pathway in neutrophils mitigates both arterial and venous thrombosis**
+
+Science Translational Medicine., Vol 14, Issue 660, 31 Aug 2022 [PMID: 36044595](https://pubmed.ncbi.nlm.nih.gov/36044595/)
+
+N/A
+
+2022
+
+Liyan Fan, David R Sweet, Erica K Fan, Domenick A Prosdocimo, Annmarie Madera, Zhen Jiang, **Roshan Padmanabhan**, Saptarsi M Haldar, Vinesh Vinayachandran, Mukesh K Jain
+
 ### **Transcription factors KLF15 and PPARδ cooperatively orchestrate genome-wide regulation of lipid metabolism in skeletal muscle**
 
 Journal of Biological Chemistry., Volume 298, Issue 6, June 2022 [PMID: 35413288](https://pubmed.ncbi.nlm.nih.gov/35413288/)

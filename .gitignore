@@ -4,4 +4,5 @@
 .Ruserdata
 .DS_Store
 renv
-old
+old/*
+RP_cv_2024_files/*
